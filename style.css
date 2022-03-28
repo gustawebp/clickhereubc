@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(68, 2, 2);
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35pt;
+
+
+
+} 
+h1:hover{ background-color: rgba(0, 0, 0, 0.205);
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px white;
+
+}
+a {
+    text-decoration: none;
+    color: white;
+}
